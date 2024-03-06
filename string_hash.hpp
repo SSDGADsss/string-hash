@@ -12,7 +12,7 @@
 
 namespace detail
 {
-	using uint32 = unsigned;
+	using uint32 = unsigned long;
 	using uint64 = unsigned long long;
 
 	template < typename H >
